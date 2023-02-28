@@ -26,3 +26,5 @@ def create_prompt(name):
     print(response.choices[0].text)
 
 create_prompt(whole_name)
+
+cat = ""
